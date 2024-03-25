@@ -1,0 +1,8 @@
+
+*.json
+GAT315-Physics-Unity/.vsconfig
+.vs/UnityGamePhysics/v17/.wsuo
+*.vsidx
+*.asset
+*.settings
+*.dwlt
